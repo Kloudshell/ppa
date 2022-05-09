@@ -1,0 +1,19 @@
+Package: kloudshell
+Architecture: amd64
+Version: 1.0-e
+Multi-Arch: foreign
+Priority: optional
+Section: devel
+Maintainer: Kloudshell Inc <kloudshell@gmail.com>
+Installed-Size: 680
+Depends: libc6 (>= 2.29), libcurl4 (>= 7.16.2), libgcc-s1 (>= 4.2), libmagic1 (>= 5.12), libreadline8 (>= 6.3), libsqlite3-0 (>= 3.5.9), libssl1.1 (>= 1.1.0)
+Filename: pool/main/kloudshell/kloudshell_1.0-e_amd64.deb
+Size: 190824
+MD5sum: 953d0b262c42d84f65764babc63dc156
+SHA1: 6348bb34457bf6ffcfbabe75b1dc5b8d78b3e950
+SHA256: f549bba993ce592fc7718b729928ad5fdc77fbad5d691014f45c0fe4477cf90b
+SHA512: 17d34acc04607dbb9336da387afb569024f499cb90f20608457577d9784fa6eabbe41478df95b33fd681839657ea37981c54fdacf3fb97bcb23e8f0fa6b895bb
+Homepage: https://www.kloudshell.com
+Description: Kloudshell terminal emulator
+ Access your favorite cloud platforms from the terminal.
+

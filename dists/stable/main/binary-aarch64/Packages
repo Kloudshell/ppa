@@ -1,0 +1,15 @@
+Package: kloudshell
+Architecture: aarch64
+Version: 1.0-e
+Maintainer: Kloudshell Inc <kloudshell@gmail.com>
+Installed-Size: 516
+Depends: readline, curl, file, sqlite
+Filename: pool/main/kloudshell/kloudshell_1.0-e_aarch64.deb
+Size: 128268
+MD5sum: 8705c5c82e8e27442c1d3f40b140a5c5
+SHA1: b39b0606e37b3ad5dfcf729f6789e6a17a5a7424
+SHA256: ea761733b7c953655cb1c7c7867c7b69d46a4d75c00898b55db16741cda60c6c
+SHA512: 2db7fc87fefd2e3b88eb360da6bd6f0caf5eccb4873304e65c4d71760fec5aef53eb08eb94c5266d060886c14e3cb0a5ad9186250822f39e15bf2a80f41ee168
+Homepage: https://www.kloudshell.com
+Description: Kloudshell terminal emulator to access your favorite cloud platforms.
+

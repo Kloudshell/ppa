@@ -1,0 +1,33 @@
+Origin: Kloudshell repository
+Label: Kloudshell
+Version: 1.0
+Suite: stable
+Codename: stable
+Components: main
+Architectures: amd64 i386 aarch64
+Description: Kloudshell Debian repository
+Date: Mon, 09 May 2022 11:11:31 +0000
+MD5Sum:
+ bebbe29ff1bdc33d9d434a297856ecd3              223 Release
+ 3c64ec66e944aa0a76f33aedebe151ef              657 main/binary-aarch64/Packages
+ 51db5547295c6652ef3487fc62ea64c3              469 main/binary-aarch64/Packages.gz
+ 47b6413790da246e37b220b6c3bfcda3              843 main/binary-amd64/Packages
+ 6d83f5f77b69519af5ade65d3673d185              570 main/binary-amd64/Packages.gz
+SHA1:
+ cbf93b1ce7d5ad1a13eb44591e3cb08cbc27eebe              223 Release
+ da056eddbb5f342c8f62fe251091876f0036c5c9              657 main/binary-aarch64/Packages
+ 5c4b8a39015d48f8c7e4736be4d6ece594d8bdea              469 main/binary-aarch64/Packages.gz
+ 078caa1eda1c64eea9dfafa4c06f7d164ac18f33              843 main/binary-amd64/Packages
+ 1f69137c5856eec74b77f52466549337606a2e2e              570 main/binary-amd64/Packages.gz
+SHA256:
+ 8a96695fb61425f4cfd73fc2c6e5cbaf62735b0b6f6eb3ea39d9f2b1c71a6daf              223 Release
+ a5f276496d02c5892187517917d614200926a550b566bf197b06a7bb55505664              657 main/binary-aarch64/Packages
+ 38b45fe7d0f60b6323b6d0adb8a8c2fc6c37a2c54a9b90d0e621f2482bc221f4              469 main/binary-aarch64/Packages.gz
+ bcaec5e794e935088d1b100935a2ec1db80151077643ebf0818b6596c73ee7ac              843 main/binary-amd64/Packages
+ e1b88d1f5c388d8a81dbea73287f45054deb26ed9280cc4922412a846a4f8f27              570 main/binary-amd64/Packages.gz
+SHA512:
+ be76d083e44979af54def651f8d8d45814e91bcea31a2bd1028662303f9ef0153e1689480645e0b46e5a2514a97d85f2798bf19dad6d9c736dda1a1b3853b27b              223 Release
+ a8e4eb44de136b52846a49772dbf2cc8f6932d44074186ad6e90cdad455b0b135c140a8ac20193d4907d07189f11883bc84f63e564b86ae617e66bb3bd3bb365              657 main/binary-aarch64/Packages
+ b2b74653cd584c4dcbdc78dd9a675c0e49a3e0bc768f1f56eb30c5a809d95e81ca55dc2fcc077c9c0122d7a07fdde7350f26569a465eec879e3329772008f09e              469 main/binary-aarch64/Packages.gz
+ b2d4f8432018bb6d38adeb33070c75af0b3d169ef576a8325df69d816e1d72ec3aa23bed377c580280ed637188cdd98c193dbddc6d5ada5e686bc471288f8459              843 main/binary-amd64/Packages
+ 157311d824fb8916fc77b7a2f1b0206d2a5b2af8aa0b9587253734db31d24ae26e2d907876a00013d3d42a1a9653e813eb0aa5f13154603e6098b73eb6801861              570 main/binary-amd64/Packages.gz
